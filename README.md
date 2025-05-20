@@ -1,2 +1,1 @@
-![Tela principal](Images/Main.png)
-![Tela de estatísticas](Images/Detail.png)
+<img src="Pokemon/Images/Main.png" alt="Tela principal" width="300"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="Pokemon/Images/Detail.png" alt="Tela estatísticas" width="300"> 
